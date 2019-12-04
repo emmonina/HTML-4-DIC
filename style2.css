@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: right;
+  
+ 
+    
+}
+
+
+.item { 
+    background-color:cyan;
+    color: white;
+    width: 250px;
+    height: 100;
+ text-align: right;  
+
+
+
+}
