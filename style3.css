@@ -1,0 +1,57 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    
+}
+
+.item { 
+    background-color:rgb(255, 166, 0);
+    color: white;
+    width: 750px;
+    height: 100;
+ text-align: right;  
+}
+.container1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+  
+}
+
+.item1 { 
+    background-color:yellow;
+    color: white;
+    width: 250px;
+    height: 100;
+ text-align: right;  
+}
+
+.item11 { 
+    background-color:cyan;
+    color: white;
+    width: 250px;
+    height: 100;
+ text-align: right;  
+}
+.item111 { 
+    background-color:rgb(255, 0, 170);
+    color: white;
+    width: 250px;
+    height: 100;
+ text-align: right;  
+}
+.container2 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    
+}
+
+.item2 { 
+    background-color:green;
+    color: white;
+    width: 750px;
+    height: 100;
+ text-align: right;  
+}
